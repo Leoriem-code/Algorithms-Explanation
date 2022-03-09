@@ -30,7 +30,7 @@ Dans un algorithme de tri, le meilleur cas est celui où la liste est déjà tri
     * De là, soit la 1ère est plus petite, et on passe à la 4ème valeur.
     * Soit, la 1ère est plus grande, et on copie la 1ère à la place de la 2ème, puis on place la valeur que l'on trie à la place de la 1ère.
 * On continue comme cela jusqu'à atteindre la fin de la liste.
-(Je vous conseille de regarder la vidéo pour que le principe soit plus clair.)
+  (Je vous conseille de regarder la vidéo pour que le principe soit plus clair.)
 
 ## Exemple
 
